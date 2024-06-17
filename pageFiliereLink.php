@@ -21,4 +21,6 @@ document.documentElement.classList.add("js");
 ;
 
 include 'mueller-1.0.0/mueller-1.0.0/part1.php';
+
+// include 'footerLink.php';
 ?>
